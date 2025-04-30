@@ -1,9 +1,9 @@
-Hi I am Vaibhav Sharma,I’m a passionate and driven second-year B.Tech Computer Science student, actively building a strong foundation in software development. I have a deep interest in Data Structures and Algorithms (DSA) and proficient in writing efficient, clean code in C++, Java, and Python.<br>
+Hi I am Vaibhav Sharma,I’m a passionate and driven second-year B.Tech Computer Science student, actively building a strong foundation in software development. I have a deep interest in Data Structures and Algorithms (DSA) and proficient in writing efficient, clean code in C++, Java, and Python.<br><br>
 Profile Views : [![HitCount](https://hits.dwyl.com/Vaibhav6780/Vaibhav6780.svg?style=flat-square)](http://hits.dwyl.com/Vaibhav6780/Vaibhav6780
-<br>
+<br><br>
 On the development side, I’ve started exploring front-end web development with a good command over HTML, CSS, and JavaScript — and I’m excited to expand into full-stack development as I grow.
 🔭 I’m currently working on A Sign Language Interpreter using Deep Learning, which aims to bridge communication gaps by translating sign gestures into text or speech using computer vision and neural networks.<br>👯 I’m looking to collaborate on  Tech projects involving machine learning, computer vision, or web development, especially ones that can have real-world social impact. I'm also open to open-source contributions.<br>🤝 I’m looking for help in learning and growing<br>🌱 I’m currently learning Machine Learning , Tailwind CSS, JavaScript, MongoDB, Express.js, React.js, Node.js(MERN Stack).<br>💬 Ask me about Core CS concepts like OOP and OS — I'm always up for a technical conversation and to tackle a real world problem<br>⚡ Fun fact I love combining technology with real-world applications — my current project started as a curiosity and quickly turned into a passion!
-<br>
+<br><br>
 
 
 ## 🌐 Socials:
