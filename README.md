@@ -3,23 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav6780&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav6780" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav6780" alt="vaibhav6780" /></a> </p>
+🔭 I’m currently working on **🔭 I’m currently working on A Sign Language Interpreter using Deep Learning, which aims to bridge communication gaps by translating sign gestures into text or speech using computer vision and neural networks.**
 
-- 🔭 I’m currently working on **🔭 I’m currently working on A Sign Language Interpreter using Deep Learning, which aims to bridge communication gaps by translating sign gestures into text or speech using computer vision and neural networks.**
+🌱 I’m currently learning **I’m currently learning Machine Learning , Tailwind CSS, JavaScript, MongoDB, Express.js, React.js, Node.js(MERN Stack).**
 
-- 🌱 I’m currently learning **I’m currently learning Machine Learning , Tailwind CSS, JavaScript, MongoDB, Express.js, React.js, Node.js(MERN Stack).**
+👯 I’m looking to collaborate on **I’m looking to collaborate on Tech projects involving machine learning, computer vision, or web development, especially ones that can have real-world social impact. I'm also open to open-source contributions.**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Tech projects involving machine learning, computer vision, or web development, especially ones that can have real-world social impact. I'm also open to open-source contributions.**
+🤝 I’m looking for help with **I’m looking for help in learning and growing**
 
-- 🤝 I’m looking for help with **I’m looking for help in learning and growing**
+💬 Ask me about **Ask me about Core CS concepts like OOP and OS — I'm always up for a technical conversation and to tackle a real world problem**
 
-- 💬 Ask me about **Ask me about Core CS concepts like OOP and OS — I'm always up for a technical conversation and to tackle a real world problem**
+📫 How to reach me **Vaibhavsharma6060@gmail.com**
 
-- 📫 How to reach me **Vaibhavsharma6060@gmail.com**
+ 📄 Know about my experiences [https://drive.google.com/file/d/1HGK6lXvRX04EdVvMzPmQhwQpX-PT7whY/view?usp=drive_link](https://drive.google.com/file/d/1HGK6lXvRX04EdVvMzPmQhwQpX-PT7whY/view?usp=drive_link)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HGK6lXvRX04EdVvMzPmQhwQpX-PT7whY/view?usp=drive_link](https://drive.google.com/file/d/1HGK6lXvRX04EdVvMzPmQhwQpX-PT7whY/view?usp=drive_link)
-
-- ⚡ Fun fact **I love combining technology with real-world applications — my current project started as a curiosity and quickly turned into a passion!**
+⚡ Fun fact **I love combining technology with real-world applications — my current project started as a curiosity and quickly turned into a passion!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
