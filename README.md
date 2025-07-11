@@ -15,7 +15,7 @@
 
 📫 How to reach me **Vaibhavsharma6060@gmail.com**
 
- 📄 Know about my experiences [https://drive.google.com/file/d/1HGK6lXvRX04EdVvMzPmQhwQpX-PT7whY/view?usp=drive_link](https://drive.google.com/file/d/1HGK6lXvRX04EdVvMzPmQhwQpX-PT7whY/view?usp=drive_link)
+ 📄 Know about my experiences [https://drive.google.com/file/d/1s_oq-k4GlzSZddr6N1rVJYYZGKTU8eDv/view?usp=sharing]
 
 ⚡ Fun fact **I love combining technology with real-world applications — my current project started as a curiosity and quickly turned into a passion!**
 
